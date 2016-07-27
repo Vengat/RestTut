@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+        <xs:schema xmlns:xs="http://www.vengat.com/2013/XMLSchema"
+                   targetNamespace="http://www.vengat.com"
+                   xmlns="http://www.vengat.com"
+                   elementFormDefault="qualified">
+
+
+
+        </xs:schema>

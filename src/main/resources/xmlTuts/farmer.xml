@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE farmer [
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT village (#PCDATA)>
+<!ELEMENT cropDetails (cropName, method)>
+<!ELEMENT farmer (name, village, cropDetails)>
+<!ELEMENT cropName (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+]>
+
+<farmer>
+        <name>Ramar</name>
+        <village>Erasakkanaikanur</village>
+        <cropDetails>
+		    <cropName>Banana</cropName>
+		    <method>Organic</method>
+        </cropDetails>
+</farmer>
